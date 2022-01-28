@@ -1,3 +1,3 @@
 # Car-Price-Prediction
 
-End-toEnd Deployed on Heroku
+End-to-End Deployed on Heroku
